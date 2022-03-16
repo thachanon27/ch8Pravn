@@ -1,0 +1,3 @@
+from utils.params_manager import ParamsManager
+from function_approximator.shallow import Actor as ShallowActor
+from function_approximator.shallow import DiscreteActor as ShallowDiscreteActor
